@@ -1,0 +1,7 @@
+<?php
+define('SITE_NAME', 'Food Ordering Admin');
+define('SERVER_IMAGE', $_SERVER['DOCUMENT_ROOT']."/FOOD_ORDERING_PERSONAL/");
+define('SERVER_DISH_IMAGE', SERVER_IMAGE."MEDIA/DISH/");
+define('SITE_IMAGE', 'http://127.0.0.1/FOOD_ORDERING_PERSONAL/');
+define('SITE_DISH_IMAGE', SITE_IMAGE."MEDIA/DISH/");
+?>
